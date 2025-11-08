@@ -9,6 +9,7 @@
     {
       "src": "/(.*)",
       "dest": "/PharmaCare/Publish"
+
     }
   ]
 }
