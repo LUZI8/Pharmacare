@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "PharmaCare/PharmaCare.csproj",
+      "use": "@vercel/dotnet"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/PharmaCare/Publish"
+    }
+  ]
+}
