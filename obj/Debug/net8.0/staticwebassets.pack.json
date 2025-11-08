@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Image16233a77-e20d-4a14-9925-67ac7bdd8289_Upe6o53Rl6GplOG2_8_5Rta1M__69442.jpg",
+      "PackagePath": "staticwebassets\\Images\\Image16233a77-e20d-4a14-9925-67ac7bdd8289_Upe6o53Rl6GplOG2_8_5Rta1M__69442.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Image1e9ab09f-1b3d-48e1-866c-e669cacffdbe_Losec-600x600-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Image1e9ab09f-1b3d-48e1-866c-e669cacffdbe_Losec-600x600-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Image3f363225-b172-4262-bf05-a5b724f6a4e7_71tL5zXpzIL.jpg",
+      "PackagePath": "staticwebassets\\Images\\Image3f363225-b172-4262-bf05-a5b724f6a4e7_71tL5zXpzIL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Image6dbe8d1d-ba64-44fe-84d4-f8707805e68e_41qdv9KLTRL._AC_.jpg",
+      "PackagePath": "staticwebassets\\Images\\Image6dbe8d1d-ba64-44fe-84d4-f8707805e68e_41qdv9KLTRL._AC_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Image746e14ec-7a9a-457e-a5dd-251bc634475e_4284_1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Image746e14ec-7a9a-457e-a5dd-251bc634475e_4284_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Image890b91dc-ffbc-46ee-9f74-73d45045d208_o63h02smvt9qdmozwi0p_c6b31559-c2a7-41d4-b06d-734654601db3.jpg",
+      "PackagePath": "staticwebassets\\Images\\Image890b91dc-ffbc-46ee-9f74-73d45045d208_o63h02smvt9qdmozwi0p_c6b31559-c2a7-41d4-b06d-734654601db3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Imageb2c1740f-530b-49a6-9507-68b2073c3230_L-Montus-1647245718-10025213-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Imageb2c1740f-530b-49a6-9507-68b2073c3230_L-Montus-1647245718-10025213-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Imagecf1ebc7b-066f-4663-bf3c-3a4d9f8723bf_1675683651.jpg",
+      "PackagePath": "staticwebassets\\Images\\Imagecf1ebc7b-066f-4663-bf3c-3a4d9f8723bf_1675683651.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Imageef91fe26-2c80-4bfb-87c8-103952aa4cf7_500-capsule.jpg",
+      "PackagePath": "staticwebassets\\Images\\Imageef91fe26-2c80-4bfb-87c8-103952aa4cf7_500-capsule.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\Images\\Imagefd8210ed-5b77-46fe-9973-3ddb77ceea69_Image7709cb16-ba3a-4f76-ab49-e4b0e6076ea5_Actifed.png",
+      "PackagePath": "staticwebassets\\Images\\Imagefd8210ed-5b77-46fe-9973-3ddb77ceea69_Image7709cb16-ba3a-4f76-ab49-e4b0e6076ea5_Actifed.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\Noprofile.webp",
+      "PackagePath": "staticwebassets\\assets\\Images\\Noprofile.webp"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\Pharmapic.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\Pharmapic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\Images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\pharmacistconsult.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\pharmacistconsult.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\Images\\product_01.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\product_01.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\AccountViewStyles\\ChangePasswordStyle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\AccountViewStyles\\ChangePasswordStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\AccountViewStyles\\EditProfile.css",
+      "PackagePath": "staticwebassets\\assets\\css\\AccountViewStyles\\EditProfile.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\AccountViewStyles\\Login.css",
+      "PackagePath": "staticwebassets\\assets\\css\\AccountViewStyles\\Login.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\AccountViewStyles\\Profile.css",
+      "PackagePath": "staticwebassets\\assets\\css\\AccountViewStyles\\Profile.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\AccountViewStyles\\Register.css",
+      "PackagePath": "staticwebassets\\assets\\css\\AccountViewStyles\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\AdminViewStyles\\AdminLayout.css",
+      "PackagePath": "staticwebassets\\assets\\css\\AdminViewStyles\\AdminLayout.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\AdminViewStyles\\AdminPageStyle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\AdminViewStyles\\AdminPageStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\CategoryViewStyles\\CategoryCreate.css",
+      "PackagePath": "staticwebassets\\assets\\css\\CategoryViewStyles\\CategoryCreate.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\CategoryViewStyles\\CategoryDelete.css",
+      "PackagePath": "staticwebassets\\assets\\css\\CategoryViewStyles\\CategoryDelete.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\CategoryViewStyles\\CategoryIndex.css",
+      "PackagePath": "staticwebassets\\assets\\css\\CategoryViewStyles\\CategoryIndex.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\FrontEndViewStyles\\About.css",
+      "PackagePath": "staticwebassets\\assets\\css\\FrontEndViewStyles\\About.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\FrontEndViewStyles\\Cart.css",
+      "PackagePath": "staticwebassets\\assets\\css\\FrontEndViewStyles\\Cart.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\FrontEndViewStyles\\FrontEndLayout.css",
+      "PackagePath": "staticwebassets\\assets\\css\\FrontEndViewStyles\\FrontEndLayout.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\FrontEndViewStyles\\HomePage.css",
+      "PackagePath": "staticwebassets\\assets\\css\\FrontEndViewStyles\\HomePage.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\FrontEndViewStyles\\Shop.css",
+      "PackagePath": "staticwebassets\\assets\\css\\FrontEndViewStyles\\Shop.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\FrontEndViewStyles\\ShopSingle.css",
+      "PackagePath": "staticwebassets\\assets\\css\\FrontEndViewStyles\\ShopSingle.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\OrderViewStyles\\CheckOut.css",
+      "PackagePath": "staticwebassets\\assets\\css\\OrderViewStyles\\CheckOut.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\OrderViewStyles\\Index.css",
+      "PackagePath": "staticwebassets\\assets\\css\\OrderViewStyles\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\OrderViewStyles\\ManageOrders.css",
+      "PackagePath": "staticwebassets\\assets\\css\\OrderViewStyles\\ManageOrders.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\OrderViewStyles\\ThankYouPage.css",
+      "PackagePath": "staticwebassets\\assets\\css\\OrderViewStyles\\ThankYouPage.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\PrescriptionViewStyles\\Confirm.css",
+      "PackagePath": "staticwebassets\\assets\\css\\PrescriptionViewStyles\\Confirm.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\PrescriptionViewStyles\\MyReservations.css",
+      "PackagePath": "staticwebassets\\assets\\css\\PrescriptionViewStyles\\MyReservations.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\PrescriptionViewStyles\\ReservationComplete.css",
+      "PackagePath": "staticwebassets\\assets\\css\\PrescriptionViewStyles\\ReservationComplete.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\Search.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Search.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\UsersViewStyles\\Delete.css",
+      "PackagePath": "staticwebassets\\assets\\css\\UsersViewStyles\\Delete.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\UsersViewStyles\\Details.css",
+      "PackagePath": "staticwebassets\\assets\\css\\UsersViewStyles\\Details.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\UsersViewStyles\\Index.css",
+      "PackagePath": "staticwebassets\\assets\\css\\UsersViewStyles\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\UsersViewStyles\\ResetPassword.css",
+      "PackagePath": "staticwebassets\\assets\\css\\UsersViewStyles\\ResetPassword.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\bootstrap\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\custom.css",
+      "PackagePath": "staticwebassets\\assets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\mobilemenu.css",
+      "PackagePath": "staticwebassets\\assets\\css\\mobilemenu.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\site.css",
+      "PackagePath": "staticwebassets\\assets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\AccountViewScripts\\ChangePassword.js",
+      "PackagePath": "staticwebassets\\assets\\js\\AccountViewScripts\\ChangePassword.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\AccountViewScripts\\Login.js",
+      "PackagePath": "staticwebassets\\assets\\js\\AccountViewScripts\\Login.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\AccountViewScripts\\Register.js",
+      "PackagePath": "staticwebassets\\assets\\js\\AccountViewScripts\\Register.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\AdminViewScripts\\AdminLayout.js",
+      "PackagePath": "staticwebassets\\assets\\js\\AdminViewScripts\\AdminLayout.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\CategoryViewScripts\\CategoryIndex.js",
+      "PackagePath": "staticwebassets\\assets\\js\\CategoryViewScripts\\CategoryIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\FrontEndViewScripts\\Cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\FrontEndViewScripts\\Cart.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\FrontEndViewScripts\\Contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\FrontEndViewScripts\\Contact.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\FrontEndViewScripts\\HomePage.js",
+      "PackagePath": "staticwebassets\\assets\\js\\FrontEndViewScripts\\HomePage.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\FrontEndViewScripts\\Shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\FrontEndViewScripts\\Shop.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\FrontEndViewScripts\\ShopSingle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\FrontEndViewScripts\\ShopSingle.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\FrontEndViewScripts\\search.js",
+      "PackagePath": "staticwebassets\\assets\\js\\FrontEndViewScripts\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\OrderViewScripts\\CheckOut.js",
+      "PackagePath": "staticwebassets\\assets\\js\\OrderViewScripts\\CheckOut.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\OrderViewScripts\\Index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\OrderViewScripts\\Index.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\PrescriptionViewScripts\\MyReservations.js",
+      "PackagePath": "staticwebassets\\assets\\js\\PrescriptionViewScripts\\MyReservations.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\PrescriptionViewScripts\\Pickups.js",
+      "PackagePath": "staticwebassets\\assets\\js\\PrescriptionViewScripts\\Pickups.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\UsersViewScripts\\Index.js",
+      "PackagePath": "staticwebassets\\assets\\js\\UsersViewScripts\\Index.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\UsersViewScripts\\ResetPassword.js",
+      "PackagePath": "staticwebassets\\assets\\js\\UsersViewScripts\\ResetPassword.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\HP\\Desktop\\PharmaCareFinalProject\\PharmaCareFinalProject\\PharmaCareProjectCode\\PharmaCare\\PharmaCare\\wwwroot\\assets\\js\\theme-toggle.js",
+      "PackagePath": "staticwebassets\\assets\\js\\theme-toggle.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PharmaCare.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PharmaCare.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PharmaCare.props",
+      "PackagePath": "build\\PharmaCare.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PharmaCare.props",
+      "PackagePath": "buildMultiTargeting\\PharmaCare.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PharmaCare.props",
+      "PackagePath": "buildTransitive\\PharmaCare.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

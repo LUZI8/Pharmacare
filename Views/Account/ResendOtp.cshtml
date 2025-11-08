@@ -1,0 +1,19 @@
+﻿@model PharmaCare.Models.User
+@{
+    ViewData["Title"] = "Resend OTP - PharmaCare";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    <h2>Resend Verification Code</h2>
+    <p>A new verification code has been sent to your email.</p>
+    <a href="@Url.Action("Login", "Account")">Go to Login</a>
+</body>
+</html>
